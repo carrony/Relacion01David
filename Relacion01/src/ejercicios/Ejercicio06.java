@@ -6,6 +6,7 @@ public class Ejercicio06 {
 		System.out.println("Programa para "
 				// Se utiliza \" para mostrar un comilla doble en el texto
 				// a esto se le denomina secuencia de escape
+				// comentario
 				+ "pasar de \"Km/h\" a \"m/sg\"");
 		Scanner teclado = new Scanner(System.in);
 		
